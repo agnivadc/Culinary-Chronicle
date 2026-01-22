@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CulinaryChronicle",
+  "description": "An interactive odyssey through the history and evolution of global cuisine, tracing food origins from ancient civilizations to modern plates using AI and data visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
